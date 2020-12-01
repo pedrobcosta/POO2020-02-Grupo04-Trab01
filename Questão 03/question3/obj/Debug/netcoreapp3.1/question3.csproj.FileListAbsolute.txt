@@ -1,0 +1,39 @@
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.exe
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.deps.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.dev.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\bin\Debug\netcoreapp3.1\question3.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.csprojAssemblyReference.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfoInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfo.cs
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.csproj.CoreCompileInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\question3\question3\obj\Debug\netcoreapp3.1\question3.genruntimeconfig.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.exe
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.deps.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.dev.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\bin\Debug\netcoreapp3.1\question3.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.csprojAssemblyReference.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfoInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfo.cs
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.csproj.CoreCompileInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 3\question3\obj\Debug\netcoreapp3.1\question3.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.exe
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.deps.json
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.json
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.dll
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\bin\Debug\netcoreapp3.1\question3.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.dll
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO03\question3\obj\Debug\netcoreapp3.1\question3.genruntimeconfig.cache
