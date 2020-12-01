@@ -1,0 +1,14 @@
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.exe.config
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.exe
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.pdb
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.exe
+C:\Users\Thiago\source\repos\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.exe.config
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.exe
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\bin\Debug\caQUESTAO02.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.exe
+C:\Users\Thiago\Desktop\Trabalho POO\caQUESTAO02\caQUESTAO02\obj\Debug\caQUESTAO02.pdb
