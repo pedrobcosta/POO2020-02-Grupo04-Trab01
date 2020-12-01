@@ -1,0 +1,14 @@
+C:\Users\arthu\source\repos\Questao1\bin\Debug\Questao1.exe.config
+C:\Users\arthu\source\repos\Questao1\bin\Debug\Questao1.exe
+C:\Users\arthu\source\repos\Questao1\bin\Debug\Questao1.pdb
+C:\Users\arthu\source\repos\Questao1\obj\Debug\Questao1.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\Questao1\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Questao1\obj\Debug\Questao1.exe
+C:\Users\arthu\source\repos\Questao1\obj\Debug\Questao1.pdb
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\bin\Debug\Questao1.exe.config
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\bin\Debug\Questao1.exe
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\bin\Debug\Questao1.pdb
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\obj\Debug\Questao1.csprojAssemblyReference.cache
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\obj\Debug\Questao1.exe
+C:\Users\Thiago\Documents\Faculdade\Trabalho POO\Questão 01\obj\Debug\Questao1.pdb
