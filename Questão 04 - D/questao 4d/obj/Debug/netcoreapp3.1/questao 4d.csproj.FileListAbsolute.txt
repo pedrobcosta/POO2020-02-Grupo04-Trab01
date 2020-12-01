@@ -1,0 +1,13 @@
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.csprojAssemblyReference.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.AssemblyInfoInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.AssemblyInfo.cs
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.csproj.CoreCompileInputs.cache
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.exe
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.deps.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.runtimeconfig.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.runtimeconfig.dev.json
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\bin\Debug\netcoreapp3.1\questao 4d.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.dll
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.pdb
+C:\Users\gstv\Documents\Estudo\UFU\AARE 2\POO\Trab 1\questao 4d\questao 4d\obj\Debug\netcoreapp3.1\questao 4d.genruntimeconfig.cache
